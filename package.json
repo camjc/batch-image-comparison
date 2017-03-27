@@ -1,0 +1,23 @@
+{
+  "name": "batch-image-comparison",
+  "version": "1.0.0",
+  "description": "Check for visual matches with different filenames across two directories",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint ./index.js --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cameron Chamberlain",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.2.0",
+    "gm": "^1.23.0",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "eslint": "^3.18.0",
+    "eslint-config-airbnb-base": "^11.1.2",
+    "eslint-plugin-import": "^2.2.0"
+  }
+}
