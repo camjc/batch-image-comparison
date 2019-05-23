@@ -11,7 +11,7 @@
   "author": "Cameron Chamberlain",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.2.0",
+    "async": "^3.0.0",
     "gm": "^1.23.0",
     "lodash": "^4.17.4"
   },
