@@ -13,7 +13,7 @@
   "dependencies": {
     "async": "^2.2.0",
     "gm": "^1.23.0",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.11"
   },
   "devDependencies": {
     "eslint": "^3.18.0",
