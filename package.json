@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "async": "^2.2.0",
-    "gm": "^1.23.0",
+    "gm": "^1.23.1",
     "lodash": "^4.17.11"
   },
   "devDependencies": {
